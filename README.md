@@ -1,2 +1,2 @@
-# Doctor-appointment-
+# Doctor-appointment
 Doctor appointment system
